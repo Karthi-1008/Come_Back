@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Machine translated, needs native speaker review -->
+<resources>
+    <string name="app_name">ComeBack</string>
+    <string name="welcome_title">നന്നായി കഴിക്കൂ, എന്നും</string>
+    <string name="welcome_subtitle">നിങ്ങൾ കഴിക്കുന്നത് രേഖപ്പെടുത്തുക, നിങ്ങളുടെ മുഴുവൻ ദിവസത്തെയും പോഷകങ്ങൾ കാണുക.</string>
+    <string name="sign_in_google">Google ഉപയോഗിച്ച് സൈൻ ഇൻ ചെയ്യുക</string>
+    <string name="wellness_note">ആരോഗ്യ മാർഗ്ഗനിർദ്ദേശം മാത്രം, വൈദ്യോപദേശമല്ല.</string>
+    <string name="offline_note">സൈൻ ഇൻ ചെയ്ത ശേഷം ഓഫ്‌ലൈനിലും പ്രവർത്തിക്കും.</string>
+
+    <string name="err_no_internet">നിലവിൽ ഇന്റർനെറ്റ് ലഭ്യമല്ല. സൈൻ ഇൻ ചെയ്യാൻ ഒരു തവണ ഇന്റർനെറ്റ് ബന്ധിപ്പിക്കുക.</string>
+    <string name="err_cancelled">സൈൻ ഇൻ റദ്ദാക്കി. നിങ്ങൾക്ക് എപ്പോൾ വേണമെങ്കിലും വീണ്ടും ശ്രമിക്കാം.</string>
+    <string name="err_no_account">ഈ ഫോണിൽ Google അക്കൗണ്ട് കണ്ടെത്തിയില്ല. ക്രമീകരണങ്ങളിൽ ചേർത്ത് വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="err_play_services">Google Play സേവനങ്ങൾ ലഭ്യമല്ല അല്ലെങ്കിൽ അപ്ഡേറ്റ് ചെയ്യേണ്ടതുണ്ട്.</string>
+    <string name="err_not_configured">ഈ പതിപ്പിൽ സൈൻ ഇൻ സജ്ജീകരിച്ചിട്ടില്ല.</string>
+    <string name="err_generic">എന്തോ തകരാർ സംഭവിച്ചു. ദയവായി വീണ്ടും ശ്രമിക്കുക.</string>
+
+    <string name="survey_step">ഘട്ടം %1$d / %2$d</string>
+    <string name="q_age">നിങ്ങളുടെ പ്രായം എത്രയാണ്?</string>
+    <string name="q_age_unit">വയസ്സ്</string>
+    <string name="q_sex">നിങ്ങളുടെ ലിംഗം ഏതാണ്?</string>
+    <string name="q_sex_hint">ദൈനംദിന ലക്ഷ്യങ്ങൾക്കും ശരീര മാതൃകയ്ക്കും ഉപയോഗിക്കുന്നു.</string>
+    <string name="sex_male">പുരുഷൻ</string>
+    <string name="sex_female">സ്ത്രീ</string>
+    <string name="q_height">നിങ്ങളുടെ ഉയരം എത്രയാണ്?</string>
+    <string name="q_weight">നിങ്ങളുടെ ഭാരം എത്രയാണ്?</string>
+    <string name="unit_cm">സെ.മീ</string>
+    <string name="unit_kg">കിലോഗ്രാം</string>
+    <string name="unit_ft">അടി</string>
+    <string name="unit_in">ഇഞ്ച്</string>
+    <string name="q_diet">നിങ്ങൾ എന്ത് ഭക്ഷണമാണ് കഴിക്കുന്നത്?</string>
+    <string name="diet_veg">സസ്യാഹാരം (Vegetarian)</string>
+    <string name="diet_nonveg">മാംസാഹാരം (Non-vegetarian)</string>
+    <string name="diet_vegan">പൂർണ്ണ സസ്യാഹാരം (Vegan)</string>
+    <string name="q_activity">നിങ്ങളുടെ ദൈനംദിന ശാരീരിക പ്രവർത്തനങ്ങൾ എങ്ങനെയാണ്?</string>
+    <string name="activity_sedentary">കൂടുതലും ഇരിക്കുന്നത് (ഡെസ്ക് അല്ലെങ്കിൽ പഠനം)</string>
+    <string name="activity_light">കുറഞ്ഞ പ്രവർത്തനം (കുറച്ചു നടപ്പ്)</string>
+    <string name="activity_moderate">മിതമായ പ്രവർത്തനം (നടത്തം, പതിവ് വ്യായാമം)</string>
+    <string name="activity_very">കൂടുതൽ പ്രവർത്തനം (കഠിനമായ കായിക ജോലികൾ അല്ലെങ്കിൽ സ്പോർട്സ്)</string>
+    <string name="btn_next">അടുത്തത്</string>
+    <string name="btn_back">പിന്നോട്ട്</string>
+    <string name="btn_finish">പൂർത്തിയാക്കുക</string>
+    <string name="btn_save">സംരക്ഷിക്കുക</string>
+
+    <string name="tab_today">ഇന്ന്</string>
+    <string name="tab_add">ഭക്ഷണം ചേർക്കുക</string>
+    <string name="tab_portfolio">പോർട്ട്‌ഫോളിയോ</string>
+    <string name="tab_settings">ക്രമീകരണങ്ങൾ</string>
+    <string name="greeting">നമസ്കാരം, %1$s</string>
+    <string name="coming_soon">ഉടൻ വരുന്നു</string>
+
+    <string name="settings_language">ഭാഷ</string>
+    <string name="settings_theme">തീം (Theme)</string>
+    <string name="theme_system">സിസ്റ്റം ഡിഫോൾട്ട്</string>
+    <string name="theme_light">ലൈറ്റ്</string>
+    <string name="theme_dark">ഡാർക്ക്</string>
+    <string name="settings_edit_profile">പ്രൊഫൈൽ തിരുത്തുക</string>
+    <string name="settings_account">അക്കൗണ്ട്</string>
+    <string name="settings_sign_out">സൈൻ ഔട്ട്</string>
+    <string name="signout_confirm">സൈൻ ഔട്ട് ചെയ്യുന്നത് ഈ ഫോണിൽ നിന്ന് നിങ്ങളുടെ പ്രൊഫൈൽ നീക്കം ചെയ്യും. തുടരണോ?</string>
+    <string name="btn_cancel">റദ്ദാക്കുക</string>
+    <string name="settings_credits">ഡാറ്റ ഉറവിടങ്ങളും കടപ്പാടുകളും</string>
+    <string name="settings_about">വിവരം</string>
+    <string name="about_version">പതിപ്പ് %1$s</string>
+    <string name="about_open_source">സൗജന്യവും ഓപ്പൺ സോഴ്സും.</string>
+
+    <string name="lang_en">English</string>
+    <string name="lang_ta">தமிழ்</string>
+    <string name="lang_te">తెలుగు</string>
+    <string name="lang_ml">മലയാളം</string>
+    <string name="lang_hi">हिन्दी</string>
+
+    <string name="profile_saved_toast">പ്രൊഫൈൽ വിജയകരമായി സംരക്ഷിച്ചു</string>
+    <string name="credits_bodyparts3d_title">BodyParts3D</string>
+    <string name="credits_bodyparts3d_desc">© The Database Center for Life Science, licensed under CC Attribution-Share Alike 2.1 Japan.</string>
+    <string name="credits_hra_title">Human Reference Atlas</string>
+    <string name="credits_hra_desc">3D Reference Object Library, Browne and Schlehlein, HuBMAP, licensed CC BY 4.0, based on the Visible Human Dataset from the US National Library of Medicine.</string>
+    <string name="credits_food_data_title">ഭക്ഷണ വിവരങ്ങൾ</string>
+    <string name="credits_food_data_desc">ഭക്ഷണ ഡാറ്റാബേസ് ചേർക്കുമ്പോൾ ഉറവിടങ്ങൾ ഇവിടെ കാണിക്കും.</string>
+</resources>

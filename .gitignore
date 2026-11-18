@@ -1,3 +1,20 @@
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Stage planning / assets
+Assets/
 Antigravity Build Plan Four Stages.md
 STAGE1_FOUNDATION.md
-Assets/
+

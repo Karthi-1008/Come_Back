@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Machine translated, needs native speaker review -->
+<resources>
+    <string name="app_name">ComeBack</string>
+    <string name="welcome_title">బాగా తినండి, ప్రతిరోజూ</string>
+    <string name="welcome_subtitle">మీరు తినేదాన్ని నమోదు చేయండి మరియు మీ రోజంతా పోషకాలు ఎలా ఉన్నాయో చూడండి.</string>
+    <string name="sign_in_google">Google తో సైన్ ఇన్ చేయండి</string>
+    <string name="wellness_note">ఆరోగ్య మార్గదర్శకత్వం మాత్రమే, వైద్య సలహా కాదు.</string>
+    <string name="offline_note">సైన్ ఇన్ చేసిన తర్వాత ఆఫ్‌లైన్‌లో కూడా పనిచేస్తుంది.</string>
+
+    <string name="err_no_internet">ప్రస్తుతం ఇంటర్నెట్ లేదు. సైన్ ఇన్ చేయడానికి ఒక్కసారి ఇంటర్నెట్ కనెక్ట్ చేయండి.</string>
+    <string name="err_cancelled">సైన్ ఇన్ రద్దు చేయబడింది. మీరు ఎప్పుడైనా మళ్లీ ప్రయత్నించవచ్చు.</string>
+    <string name="err_no_account">ఈ ఫోన్‌లో Google ఖాతా కనుగొనబడలేదు. సెట్టింగ్స్‌లో జోడించి మళ్లీ ప్రయత్నించండి.</string>
+    <string name="err_play_services">Google Play సేవలు లేవు లేదా నవీకరణ అవసరం.</string>
+    <string name="err_not_configured">ఈ బిల్డ్‌లో సైన్ ఇన్ ఇంకా సెటప్ చేయబడలేదు.</string>
+    <string name="err_generic">ఏదో తప్పు జరిగింది. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+
+    <string name="survey_step">దశ %1$d / %2$d</string>
+    <string name="q_age">మీ వయస్సు ఎంత?</string>
+    <string name="q_age_unit">సంవత్సరాలు</string>
+    <string name="q_sex">మీ లింగం ఏమిటి?</string>
+    <string name="q_sex_hint">మీ రోజువారీ లక్ష్యాలు మరియు శరీర నమూనా కోసం ఉపయోగించబడుతుంది.</string>
+    <string name="sex_male">పురుషుడు</string>
+    <string name="sex_female">స్త్రీ</string>
+    <string name="q_height">మీ ఎత్తు ఎంత?</string>
+    <string name="q_weight">మీ బరువు ఎంత?</string>
+    <string name="unit_cm">సెం.మీ</string>
+    <string name="unit_kg">కిలోలు</string>
+    <string name="unit_ft">అడుగులు</string>
+    <string name="unit_in">అంగుళాలు</string>
+    <string name="q_diet">మీరు ఏమి తింటారు?</string>
+    <string name="diet_veg">శాకాహారం</string>
+    <string name="diet_nonveg">మాంసాహారం</string>
+    <string name="diet_vegan">వీగన్ (Vegan)</string>
+    <string name="q_activity">మీ రోజువారీ జీవనశైలి ఎలా ఉంటుంది?</string>
+    <string name="activity_sedentary">ఎక్కువగా కూర్చోవడం (డెస్క్ లేదా చదువు)</string>
+    <string name="activity_light">తక్కువ శారీరక శ్రమ (కొద్దిగా నడక)</string>
+    <string name="activity_moderate">మితమైన శ్రమ (నడక, క్రమం తప్పకుండా వ్యాయామం)</string>
+    <string name="activity_very">అధిక శారీరక శ్రమ (భారీ శారీరక పని లేదా క్రీడలు)</string>
+    <string name="btn_next">తరువాత</string>
+    <string name="btn_back">వెనుకకు</string>
+    <string name="btn_finish">ముగించు</string>
+    <string name="btn_save">సేవ్ చేయి</string>
+
+    <string name="tab_today">ఈరోజు</string>
+    <string name="tab_add">ఆహారాన్ని జోడించండి</string>
+    <string name="tab_portfolio">పోర్ట్‌ఫోలియో</string>
+    <string name="tab_settings">సెట్టింగ్‌లు</string>
+    <string name="greeting">హలో, %1$s</string>
+    <string name="coming_soon">త్వరలో వస్తుంది</string>
+
+    <string name="settings_language">భాష</string>
+    <string name="settings_theme">థీమ్ (Theme)</string>
+    <string name="theme_system">సిస్టమ్ డిఫాల్ట్</string>
+    <string name="theme_light">లైట్</string>
+    <string name="theme_dark">డార్క్</string>
+    <string name="settings_edit_profile">ప్రొఫైల్ సవరించండి</string>
+    <string name="settings_account">ఖాతా</string>
+    <string name="settings_sign_out">సైన్ అవుట్</string>
+    <string name="signout_confirm">సైన్ అవుట్ చేయడం వలన ఈ ఫోన్ నుండి మీ ప్రొఫైల్ తొలగించబడుతుంది. కొనసాగించాలా?</string>
+    <string name="btn_cancel">రద్దు చేయి</string>
+    <string name="settings_credits">డేటా మూలాలు మరియు క్రెడిట్‌లు</string>
+    <string name="settings_about">గురించి</string>
+    <string name="about_version">వెర్షన్ %1$s</string>
+    <string name="about_open_source">ఉచిత మరియు ఓపెన్ సోర్స్.</string>
+
+    <string name="lang_en">English</string>
+    <string name="lang_ta">தமிழ்</string>
+    <string name="lang_te">తెలుగు</string>
+    <string name="lang_ml">മലയാളം</string>
+    <string name="lang_hi">हिन्दी</string>
+
+    <string name="profile_saved_toast">ప్రొఫైల్ విజయవంతంగా సేవ్ చేయబడింది</string>
+    <string name="credits_bodyparts3d_title">BodyParts3D</string>
+    <string name="credits_bodyparts3d_desc">© The Database Center for Life Science, licensed under CC Attribution-Share Alike 2.1 Japan.</string>
+    <string name="credits_hra_title">Human Reference Atlas</string>
+    <string name="credits_hra_desc">3D Reference Object Library, Browne and Schlehlein, HuBMAP, licensed CC BY 4.0, based on the Visible Human Dataset from the US National Library of Medicine.</string>
+    <string name="credits_food_data_title">ఆహార డేటా</string>
+    <string name="credits_food_data_desc">ఆహార డేటాబేస్ జోడించినప్పుడు మూలాలు ఇక్కడ జాబితా చేయబడతాయి.</string>
+</resources>
